@@ -1,6 +1,6 @@
 # Daily Plannr
 
-Hi, if you are here Daily Plannr is currently in its development stage. Follow along for updates!
+Hi, if you are here Daily Plannr is currently in its **planning and design** stage. Follow along for updates!
 
 ## About 
 
